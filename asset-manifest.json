@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Kaffy/static/css/main.eeb4df54.css",
-    "main.js": "/Kaffy/static/js/main.e1941b9b.js",
+    "main.css": "/Kaffy/static/css/main.ac4b7a30.css",
+    "main.js": "/Kaffy/static/js/main.3b1bc949.js",
     "static/js/787.02668df9.chunk.js": "/Kaffy/static/js/787.02668df9.chunk.js",
     "static/media/logo.svg": "/Kaffy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Kaffy/index.html",
-    "main.eeb4df54.css.map": "/Kaffy/static/css/main.eeb4df54.css.map",
-    "main.e1941b9b.js.map": "/Kaffy/static/js/main.e1941b9b.js.map",
+    "main.ac4b7a30.css.map": "/Kaffy/static/css/main.ac4b7a30.css.map",
+    "main.3b1bc949.js.map": "/Kaffy/static/js/main.3b1bc949.js.map",
     "787.02668df9.chunk.js.map": "/Kaffy/static/js/787.02668df9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eeb4df54.css",
-    "static/js/main.e1941b9b.js"
+    "static/css/main.ac4b7a30.css",
+    "static/js/main.3b1bc949.js"
   ]
 }
